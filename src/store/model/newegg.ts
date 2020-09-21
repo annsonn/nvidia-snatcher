@@ -98,6 +98,55 @@ export const NewEgg: Store = {
 			model: 'trinity oc',
 			series: '3080',
 			url: 'https://www.newegg.com/zotac-geforce-rtx-3080-zt-t30800j-10p/p/N82E16814500504'
+		},
+		{
+			brand: 'msi',
+			cartUrl: 'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814137595',
+			model: 'gaming x trio',
+			series: '3090',
+			url: 'https://www.newegg.com/msi-geforce-rtx-3090-rtx-3090-gaming-x-trio-24g/p/N82E16814137595'
+		},
+		{
+			brand: 'asus',
+			cartUrl: 'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814126456',
+			model: 'rog strix',
+			series: '3090',
+			url: 'https://www.newegg.com/asus-geforce-rtx-3090-rog-strix-rtx3090-o24g-gaming/p/N82E16814126456'
+		},
+		{
+			brand: 'asus',
+			cartUrl: 'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814126455',
+			model: 'tuf',
+			series: '3090',
+			url: 'https://www.newegg.com/asus-geforce-rtx-3090-tuf-rtx3090-24g-gaming/p/N82E16814126455'
+		},
+		{
+			brand: 'asus',
+			cartUrl: 'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814126454',
+			model: 'tuf sli',
+			series: '3090',
+			url: 'https://www.newegg.com/asus-geforce-rtx-3090-tuf-rtx3090-o24g-gaming/p/N82E16814126454'
+		},
+		{
+			brand: 'gigabyte',
+			cartUrl: 'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814932327',
+			model: 'gaming oc',
+			series: '3090',
+			url: 'https://www.newegg.com/gigabyte-geforce-rtx-3090-gv-n3090gaming-oc-24gd/p/N82E16814932327'
+		},
+		{
+			brand: 'msi',
+			cartUrl: 'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814137596',
+			model: 'ventus',
+			series: '3090',
+			url: 'https://www.newegg.com/msi-geforce-rtx-3090-rtx-3090-ventus-3x-24g-oc/p/N82E16814137596'
+		},
+		{
+			brand: 'zotac',
+			cartUrl: 'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E168145005030',
+			model: 'trinity',
+			series: '3090',
+			url: 'https://www.newegg.com/zotac-geforce-rtx-3090-zt-a30900d-10p/p/N82E168145005030',
 		}
 	],
 	labels: {
